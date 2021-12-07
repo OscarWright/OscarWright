@@ -3,7 +3,12 @@
 ![stats](https://github-readme-stats.vercel.app/api/?username=OscarWright&theme=dark&show_icons=true)
 ![HSC T2](https://github-readme-stats.vercel.app/api/pin/?username=OscarWright&repo=HSCSDD-T2-4P1W&theme=dark)
 
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=OscarWright&theme=dark&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OscarWright&repo=HSCSDD-T2-4P1W&theme=dark" />
+</a>
 <!--
 **OscarWright/OscarWright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
