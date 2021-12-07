@@ -1,6 +1,4 @@
-<a href="https://github.com/OscarWright/OscarWright">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarWright&hide=java,html,tex&theme=dark" />
-</a>
+
 <a href="https://github.com/OscarWright">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=OscarWright&theme=dark&show_icons=true" />
 </a>
