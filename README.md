@@ -2,9 +2,7 @@
 
 ![stats](https://github-readme-stats.vercel.app/api/?username=OscarWright&theme=dark&show_icons=true)
 ![HSC T2](https://github-readme-stats.vercel.app/api/pin/?username=OscarWright&repo=HSCSDD-T2-4P1W&theme=dark)
-<a href="https://github.com/OscarWright/HSCSDD-T2-4P1W">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OscarWright&repo=HSCSDD-T2-4P1W&theme=dark />
-</a>
+
 
 <!--
 **OscarWright/OscarWright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
