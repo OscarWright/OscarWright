@@ -1,6 +1,6 @@
 ### Hello, I'm Oscar 👋
 
- ## Languages
+ ### Languages that I have somewhat of an idea of how to use:
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="40" style="vertical-align: text-bottom;">
